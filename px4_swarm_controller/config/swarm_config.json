@@ -1,0 +1,23 @@
+{
+  "active_shape": "quadrilateral",
+
+  "formations": {
+    "triangle": {
+      "base": 20.0,
+      "height": 15.0,
+      "flight_altitude": -10.0,
+      "num_drones": 3
+    },
+    "line": {
+      "length": 20.0,
+      "flight_altitude": -10.0,
+      "num_drones": 2
+    },
+    "quadrilateral": {
+      "width": 20.0,
+      "height": 10.0,
+      "flight_altitude": -10,
+      "num_drones": 4
+    }
+  }
+}
